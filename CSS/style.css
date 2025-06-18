@@ -1,5 +1,13 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 h1,h2{
     color: red;
     text-align: center;
+}
+.CO{
+    font-size: 4vh;
+    text-align: left;
 }
